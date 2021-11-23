@@ -1,5 +1,5 @@
 ContextMenu_ES = {
-	ContextMenu_ThrowCorpseOffWindow = "Throw Corpse Off Window"
-	ContextMenu_ThrowCorpseOverFence = "Throw Corpse Over Fence"
-	ContextMenu_ThrowCorpseOverLedge = "Throw Corpse Over Ledge"
+	ContextMenu_ThrowCorpseOffWindow = "Tirar Cuerpo por la Ventana"
+	ContextMenu_ThrowCorpseOverFence = "Tirar Cuerpo por la Cerca"
+	ContextMenu_ThrowCorpseOverLedge = "Tirar Cuerpo por Saliente"
 }
